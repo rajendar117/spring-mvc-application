@@ -1,0 +1,12 @@
+com\kmc\controller\RegistrationController.class
+com\kmc\util\DBConnection.class
+com\kmc\jdbc\SpringJdbcCreateTable.class
+com\kmc\controller\LoginController.class
+com\kmc\model\Login.class
+com\kmc\dao\impl\UserDaoImpl.class
+com\kmc\dao\UserDao.class
+com\kmc\service\UserService.class
+com\kmc\config\WebConfiguration.class
+com\kmc\service\impl\UserServiceImpl.class
+com\kmc\dao\impl\UserMapper.class
+com\kmc\model\User.class
